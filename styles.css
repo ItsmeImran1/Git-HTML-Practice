@@ -1,0 +1,14 @@
+.nav-links {
+    display: flex;
+    justify-content: center;
+}
+
+li {
+    margin: 0 2em;
+    list-style: none;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
